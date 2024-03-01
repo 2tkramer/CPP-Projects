@@ -1,0 +1,17 @@
+TITLE: Taylor Kramer, section B, "Soul Cereal".
+
+PROBLEM DESCRIPTION: This program is focused on the health aspect of cereal. 
+                     Everyone has some sort of dietary needs and wants and you can just type in your 
+                     preferences and the program will return a list of cereals that best suits your needs.
+                     
+PROGRAM DOCUMENTATION: There will be promps clearly stated telling the user what needs to be typed.
+                       As for a future editor of this program, the only things that might get changed are 
+                       the number of data entries which would require no changes to the program, only the csv file. 
+                       If they wanted to add a variable, this would require adding it to the struct as well as the functions using this variable.
+                       
+TESTS: I tested each filtering feature in program adding up to nine different tests to ensure that my program filtered the data properly
+       
+REFLECTIONS: i learned that you can run into unsusual problems. For example, when trying to sort the data into a specific data type from the csv file, 
+            it would not import properly because the proper delimiter did not exist in a particular spot. I found that after hours of trying to debug 
+            one little thing that these are sorts of issues that can be caught from running many tests as you are writing code and not after. step by 
+            step is more thorough and less bug prone.
